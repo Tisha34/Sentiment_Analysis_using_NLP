@@ -1,6 +1,8 @@
 Sentiment Analysis using NLP (Machine Learning Project)
+
 🚀 This project focuses on Sentiment Analysis, where the goal is to analyze text and predict the sentiment behind it —
 ✅ Positive | ✅ Negative | ✅ Neutral
+
 Sentiment analysis is widely used in customer feedback analysis, product reviews, social media monitoring, and brand reputation tracking.
 
 📌 Project Overview:
