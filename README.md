@@ -21,7 +21,7 @@ Pandas, NumPy
 NLTK / Regex
 Scikit-learn
 Matplotlib / Seaborn
-Google Colab
+
 
 📊 Output:
 The model predicts sentiment as:
